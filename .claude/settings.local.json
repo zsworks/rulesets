@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir /mnt/d/projects/zworks/rulesets/mihomo/zsworks)",
+      "Bash(cp /mnt/d/projects/zworks/rulesets/mihomo/Lanlan13-14/*.yaml /mnt/d/projects/zworks/rulesets/mihomo/zsworks/)"
+    ]
+  }
+}
