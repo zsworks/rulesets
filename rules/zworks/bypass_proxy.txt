@@ -1,0 +1,8 @@
+# 跳过代理：命中的流量无视后续所有分流规则，强制直连（全球直连）
+# 格式：每行一条规则（classical），支持 DOMAIN / DOMAIN-SUFFIX / DOMAIN-KEYWORD / IP-CIDR / IP-CIDR6 / PROCESS-NAME 等
+# 以 # 开头的行为注释，空行会被忽略
+#
+# 示例（按需取消注释或自行添加）：
+# DOMAIN-SUFFIX,example.com
+# DOMAIN-KEYWORD,baidu
+# IP-CIDR,192.168.0.0/16,no-resolve

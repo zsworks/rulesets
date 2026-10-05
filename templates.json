@@ -2,17 +2,16 @@
     "mihomo": {
         "通用": [
             { "label": "默认(ACL4SSR_Online_Full)", "value": "/ACL4SSR_Online_Full.yaml" },
-            { "label": "默认(全分组)", "value": "/default_full.yaml" },
             { "label": "默认(精简版)", "value": "/default.yaml" }
         ],
         "zsworks": [
-            { "label": "zworks", "value": "/zsworks/configfull.yaml" }
+            { "label": "zworks", "value": "/zsworks/configfull.yaml" },
+            { "label": "zworks(全分组)", "value": "/zsworks/zworks_full.yaml" }
         ]
     },
     "singbox": {
         "通用": [
             { "label": "默认(ACL4SSR_Online_Full)", "value": "/ACL4SSR_Online_Full.yaml" },
-            { "label": "默认(全分组)", "value": "/default_full.yaml" },
             { "label": "默认(精简版)", "value": "/default.yaml" }
         ]
     }
